@@ -18,7 +18,7 @@ and a browser-based ROS 2 lab, and have trained 2,000+ engineering students.
 | <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/content/rb1-robot/pictures/rb1.gif" width="220"/> | **[RB1 warehouse autonomy](https://github.com/morg1207/rb1_autonomy)** · [video](https://www.youtube.com/watch?v=rZ5ojMnCDvw) | ROS 2 Humble, **tested on the real robot**. Nav2 + BehaviorTree.CPP mission: find the charging station, localize, detect a shelf with the LiDAR, lift it and deliver it. |
 | <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/content/forklift-robot/pictures/forklift.gif" width="220"/> | **Autonomous forklift (RRbot)** | Scaled forklift AMR for pallet transport: ROS 2, SLAM, navigation and Gazebo simulation. |
 | <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/content/leonardo-robot/pictures/leonardo.gif" width="220"/> | **LeonardoBot** — for Smart Painter | Mecanum robot with telescopic arm for interior wall painting. Autonomy & simulation lead: navigation, Gazebo Sim, mecanum control, painting routines. |
-| | **AgroBot** | Weed detection and mapping in cacao plantations: YOLO on a Jetson Nano, outdoor navigation, SLAM and Kalman-filter sensor fusion. |
+| <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/assets/img/agrobot.jpg" width="220"/> | **AgroBot** — technical advisor, thesis | Weed detection and mapping in cacao plantations: YOLO on a Jetson Nano, outdoor navigation, SLAM and Kalman-filter sensor fusion. |
 
 More repos worth a look:
 - **[rb1_nav2](https://github.com/morg1207/rb1_nav2)** — Cartographer mapping, localization and Nav2 for the RB1, in simulation and on the real robot.

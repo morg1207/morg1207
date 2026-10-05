@@ -19,7 +19,7 @@ estudiantes de ingeniería.
 | <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/content/rb1-robot/pictures/rb1.gif" width="220"/> | **[Autonomía del RB1 en almacén](https://github.com/morg1207/rb1_autonomy)** · [video](https://www.youtube.com/watch?v=rZ5ojMnCDvw) | ROS 2 Humble, **probado en el robot real**. Misión con Nav2 + BehaviorTree.CPP: encontrar la estación de carga, localizarse, detectar un estante con el LiDAR, levantarlo y entregarlo. |
 | <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/content/forklift-robot/pictures/forklift.gif" width="220"/> | **Montacargas autónomo (RRbot)** | AMR tipo montacargas a escala para transporte de pallets: ROS 2, SLAM, navegación y simulación en Gazebo. |
 | <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/content/leonardo-robot/pictures/leonardo.gif" width="220"/> | **LeonardoBot**, para Smart Painter | Robot mecanum con brazo telescópico para pintar paredes interiores. Responsable de autonomía y simulación: navegación, Gazebo Sim, control mecanum y rutinas de pintado. |
-| | **AgroBot** | Detección y mapeo de malezas en plantaciones de cacao: YOLO en una Jetson Nano, navegación en exteriores, SLAM y fusión sensorial con filtros de Kalman. |
+| <img src="https://raw.githubusercontent.com/morg1207/morg1207.github.io/main/assets/img/agrobot.jpg" width="220"/> | **AgroBot**, asesor técnico de tesis | Detección y mapeo de malezas en plantaciones de cacao: YOLO en una Jetson Nano, navegación en exteriores, SLAM y fusión sensorial con filtros de Kalman. |
 
 Otros repositorios:
 - **[rb1_nav2](https://github.com/morg1207/rb1_nav2)**: mapeo con Cartographer, localización y Nav2 para el RB1, en simulación y en el robot real.
